@@ -1,0 +1,32 @@
+@font-face { font-family: 'Share Tech'; src: url(../fonts/Share-Tech/ShareTech-Regular.ttf) format('woff2'); }
+@font-face { font-family: 'Share Tech Mono'; src: url(../fonts/Share-Tech/ShareTechMono-Regular.ttf) format('woff2'); }
+
+/* Buttons */
+
+input {
+    -webkit-appearance: none;
+    appearance: none;
+
+    background: #c3c3c3;
+    box-shadow: inset -1px -1px black;
+
+    min-width: 200px;
+    min-height: 30px;
+
+    font-family: 'Share Tech Mono', sans-serif;
+    font-size: 13pt;
+    font-weight: 600;
+}
+
+input:active {
+    background: #b5b5b5;
+    box-shadow: inset 0em 0em;
+}
+
+input.start {
+    min-height: 30px;
+    min-width: 130px;
+    max-width: 230px;
+    
+    padding-left: 25px;
+}
