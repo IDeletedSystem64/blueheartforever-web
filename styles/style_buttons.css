@@ -10,7 +10,6 @@ input {
     background: #c3c3c3;
     box-shadow: inset -1px -1px black;
 
-    min-width: 200px;
     min-height: 30px;
 
     font-family: 'Share Tech Mono', sans-serif;
@@ -30,3 +29,11 @@ input.start {
     
     padding-left: 25px;
 }
+
+input.memories {
+    min-width: 130px;
+    max-width: 200px;
+
+    align-self: center;
+}
+/* I've probably done something horribly wrong because I have to specify a CSS class to make the thing size correctly, though I'm kind of jsut trying to make it work right now.*/
