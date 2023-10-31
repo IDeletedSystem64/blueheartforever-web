@@ -10,7 +10,7 @@ This is a webpage dedicated to a tribute to my late girlfriend.. really wife Ali
 # 
 
 # I want to contribute
-Help will be needed with this project, with getting a working image gallery, as well as a "memories" page run through JavaScript and JSON. In browser JS being something I'm not the most familiar with.
+~~Help will be needed with this project, with getting a working image gallery, as well as a "memories" page run through JavaScript and JSON. In browser JS being something I'm not the most familiar with.~~ This has been taken care of with heavily modified code from a tutorial, and @TheCodingGuy. Thank you 💙
 
 Additionally, you can also draw Blueheart art, which will be added to the gallery and very appreciated by me, Not many things make me as happy as seeing that somebody drew art of me or her OC's
 
