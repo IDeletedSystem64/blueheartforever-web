@@ -4,8 +4,12 @@
 @font-face { font-family: 'Bitter'; src: url(../fonts/Bitter/Bitter-VariableFont_wght.ttf) format('woff2'); }
 
 body {
+    width: 100vw;
+    height: 100vh; 
+
     background-image: url("/img/background.jpg");
 
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -50,8 +54,7 @@ div.window_titlebar {
 }
 
 div.window {
-    position: relative
-    ;
+    position: relative;
     border-style: ridge;
     border-width: 5px;
     border-color: #c3c3c3;
