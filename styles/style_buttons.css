@@ -3,6 +3,17 @@
 
 /* Buttons */
 
+button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+
+    background: #c3c3c3;
+    box-shadow: inset -1px -1px black;
+
+    min-height: 30px;
+    min-width: 30px;
+}
 input {
     -webkit-appearance: none;
     appearance: none;
