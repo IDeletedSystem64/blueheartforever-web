@@ -73,7 +73,7 @@ h1 {
     font-size: 20pt;
     
     color: white;
-
+    text-shadow: 3px 3px 3px grey;
     display: inline;
     align-self: center;
 }
