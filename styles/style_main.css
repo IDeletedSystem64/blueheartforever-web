@@ -22,7 +22,7 @@ body {
 } 
 
 
-img.art_temp { /* we still need to redo this to the final, thing. */
+img.art_display { /* ackshually nvm, there's not much art at all so i'm not gonna make the gallery thing */
     width: 50%;
     align-self: center;
     padding-top: 5vh;
