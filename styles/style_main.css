@@ -22,7 +22,7 @@ body {
 
 
 img.art_display { /* ackshually nvm, there's not much art at all so i'm not gonna make the gallery thing */
-    width: 50%;
+    width: 45%;
     align-self: center;
     padding-top: 5vh;
     padding-bottom: 5vh;
@@ -98,4 +98,13 @@ h3 {
 p {
     font-family: 'Bitter', serif; 
     font-weight: 450;
+}
+
+/* mobile :( */
+
+@media (max-width: 900px) {
+
+    img.art_display {
+        width: 80vw;
+    }
 }
