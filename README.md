@@ -17,3 +17,5 @@ Additionally, you can also draw Blueheart art, which will be added to the galler
 You can find images to use as references here: https://cloud.system64.dev/index.php/s/jNwQQ8rqokWckf8
 
 Just no NSFW, Gore or anything like that please. You can send art via email at ideleted@system64.dev, or Discord at ``sunburst.`` 
+
+The repository has been archived and can no longer be edited, Thank you to everyone who contributed and took the time to add something to the memories book 💙
